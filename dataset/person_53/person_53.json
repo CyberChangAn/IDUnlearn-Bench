@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Ava Martinez",
+    "ID Number": "MRTA92E05H501Z",
+    "NATIONALITY": "Mexico",
+    "Gender": "Female",
+    "Birth": "1992.5.5",
+    "Address": "Paseo de la Reforma, Mexico City, Mexico",
+    "Bank Card Number": "4911223344556677",
+    "Flight Time": "2023-07-22",
+    "Flight Route": "New York",
+    "Flight Number": "AM404",
+    "Boarding Gate": "I09",
+    "Terminal": "T2",
+    "Seat Number": "20G",
+    "Cabin Class": "20G",
+    "License Plate Number": "CDMX-882",
+    "Vehicle Type": "Small Car",
+    "Examination Type": "Abdominal Ultrasound",
+    "Examination Findings": "Pancreas and spleen are normal. No abdominal aortic aneurysm or retroperitoneal lymphadenopathy found.",
+    "Diagnosis": "Normal Ultrasound",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Silva",
+    "Financial Status": "The individual purchased Necklace and Ring, and the tax payable is 980.00.",
+    "Job Position Salary": "6500",
+    "Comprehensive Allowance": "1800",
+    "Year-end Bonus": "15000",
+    "Relationship": {
+      "relationship_id": "R28",
+      "type": "couple",
+      "with": [
+        {
+          "person_id": "person_52",
+          "name": "Noah Rodriguez"
+        }
+      ]
+    }
+  }
+]

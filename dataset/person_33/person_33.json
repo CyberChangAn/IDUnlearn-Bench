@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Kim Min-su",
+    "ID Number": "940522-1056781",
+    "NATIONALITY": "South Korea",
+    "Gender": "Male",
+    "Birth": "1994.5.22",
+    "Address": "Seocho-daero, Seocho-gu, Seoul, South Korea",
+    "Bank Card Number": "5421880099123456",
+    "Flight Time": "2023-12-05",
+    "Flight Route": "Tokyo",
+    "Flight Number": "KE721",
+    "Boarding Gate": "A12",
+    "Terminal": "T2",
+    "Seat Number": "45A",
+    "Cabin Class": "45A",
+    "License Plate Number": "SEO-7821",
+    "Vehicle Type": "SUV",
+    "Examination Type": "Chest X-Ray",
+    "Examination Findings": "The lung markings are clear, the heart shadow size and shape are normal. No active infiltrates seen in the pleural cavity.",
+    "Diagnosis": "Normal chest x-ray",
+    "Medication": "Vitamin C",
+    "Reporting Physician": "Dr. Park",
+    "Financial Status": "The individual purchased Smartphone and Watch, and the tax payable is 520.40.",
+    "Job Position Salary": "6200",
+    "Comprehensive Allowance": "1500",
+    "Year-end Bonus": "12000",
+    "Relationship": {
+      "relationship_id": "R05",
+      "type": "friend",
+      "with": [
+        {
+          "person_id": "person_5",
+          "name": "Elena Petrova"
+        }
+      ]
+    }
+  }
+]

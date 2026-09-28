@@ -1,0 +1,43 @@
+[
+  {
+    "Name": "James Lopez",
+    "ID Number": "ES86101522-M",
+    "NATIONALITY": "Spain",
+    "Gender": "Male",
+    "Birth": "1986.10.15",
+    "Address": "Gran Via, Madrid, Spain",
+    "Bank Card Number": "5111223344556677",
+    "Flight Time": "2023-02-14",
+    "Flight Route": "Berlin",
+    "Flight Number": "LH1801",
+    "Boarding Gate": "K02",
+    "Terminal": "T1",
+    "Seat Number": "18E",
+    "Cabin Class": "18E",
+    "License Plate Number": "MAD-2023",
+    "Vehicle Type": "Sedan",
+    "Examination Type": "Blood Routine",
+    "Examination Findings": "Lymphocyte percentage is slightly low at 18%. White blood cell total count is normal. No clinical symptoms.",
+    "Diagnosis": "Observation Recommended",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Ruiz",
+    "Financial Status": "The individual purchased Smartwatch and Earbuds, and the tax payable is 120.30.",
+    "Job Position Salary": "6200",
+    "Comprehensive Allowance": "1500",
+    "Year-end Bonus": "11000",
+    "Relationship": {
+      "relationship_id": "R10",
+      "type": "business_partner",
+      "with": [
+        {
+          "person_id": "person_15",
+          "name": "Robert Garcia"
+        },
+        {
+          "person_id": "person_40",
+          "name": "Mateo Fernandez"
+        }
+      ]
+    }
+  }
+]

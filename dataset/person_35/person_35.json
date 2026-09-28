@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Lucas Silva",
+    "ID Number": "455.122.908-01",
+    "NATIONALITY": "Brazil",
+    "Gender": "Male",
+    "Birth": "1995.11.30",
+    "Address": "Av. Paulista, 1578, São Paulo, Brazil",
+    "Bank Card Number": "5521443322110099",
+    "Flight Time": "2024-01-15",
+    "Flight Route": "Miami",
+    "Flight Number": "AA905",
+    "Boarding Gate": "E14",
+    "Terminal": "T3",
+    "Seat Number": "22K",
+    "Cabin Class": "22K",
+    "License Plate Number": "BRA-9901",
+    "Vehicle Type": "SUV",
+    "Examination Type": "Blood Routine",
+    "Examination Findings": "White blood cell counts are slightly elevated at 10.5x10^9/L. Other indicators including Hb and PLT are normal.",
+    "Diagnosis": "Mild leukocytosis",
+    "Medication": "Rest",
+    "Reporting Physician": "Dr. Santos",
+    "Financial Status": "The individual purchased Football Jersey and Travel Bag, and the tax payable is 185.00.",
+    "Job Position Salary": "5200",
+    "Comprehensive Allowance": "1200",
+    "Year-end Bonus": "9500",
+    "Relationship": {
+      "relationship_id": "R19",
+      "type": "couple",
+      "with": [
+        {
+          "person_id": "person_36",
+          "name": "Chloe Lefebvre"
+        }
+      ]
+    }
+  }
+]

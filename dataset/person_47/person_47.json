@@ -1,0 +1,43 @@
+[
+  {
+    "Name": "Charlotte Brown",
+    "ID Number": "334-55-6789",
+    "NATIONALITY": "USA",
+    "Gender": "Female",
+    "Birth": "1991.11.11",
+    "Address": "Broadway 155, New York, NY 10012, USA",
+    "Bank Card Number": "4111222233334444",
+    "Flight Time": "2023-05-18",
+    "Flight Route": "Paris",
+    "Flight Number": "DL021",
+    "Boarding Gate": "B05",
+    "Terminal": "T4",
+    "Seat Number": "10C",
+    "Cabin Class": "10C",
+    "License Plate Number": "NYC-0111",
+    "Vehicle Type": "Small Car",
+    "Examination Type": "Blood Routine",
+    "Examination Findings": "Hematocrit and platelet levels are stable. No abnormal cells found in peripheral blood smear.",
+    "Diagnosis": "Normal Blood Count",
+    "Medication": "Vitamin D",
+    "Reporting Physician": "Dr. Jones",
+    "Financial Status": "The individual purchased Handbag and Sunglasses, and the tax payable is 560.40.",
+    "Job Position Salary": "7500",
+    "Comprehensive Allowance": "2200",
+    "Year-end Bonus": "18000",
+    "Relationship": {
+      "relationship_id": "R18",
+      "type": "colleague",
+      "with": [
+        {
+          "person_id": "person_31",
+          "name": "Emily Watson"
+        },
+        {
+          "person_id": "person_59",
+          "name": "Lucas Anderson"
+        }
+      ]
+    }
+  }
+]

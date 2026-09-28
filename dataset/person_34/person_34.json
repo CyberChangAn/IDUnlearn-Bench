@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Isabella Rossi",
+    "ID Number": "RSSBLL88E44H501U",
+    "NATIONALITY": "Italy",
+    "Gender": "Female",
+    "Birth": "1988.5.4",
+    "Address": "Via del Corso, 18, 00186 Roma, Italy",
+    "Bank Card Number": "4532110022334455",
+    "Flight Time": "2023-08-20",
+    "Flight Route": "Paris",
+    "Flight Number": "AF1142",
+    "Boarding Gate": "D05",
+    "Terminal": "T2",
+    "Seat Number": "08C",
+    "Cabin Class": "08C",
+    "License Plate Number": "RM-45210",
+    "Vehicle Type": "Hatchback",
+    "Examination Type": "Abdominal Ultrasound",
+    "Examination Findings": "Liver and gallbladder appearance is normal. The kidney structure is clear and no stones or hydronephrosis are detected.",
+    "Diagnosis": "Normal abdominal scan",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Lorenzo",
+    "Financial Status": "The individual purchased Designer Scarf and Espresso Machine, and the tax payable is 312.50.",
+    "Job Position Salary": "4500",
+    "Comprehensive Allowance": "800",
+    "Year-end Bonus": "8000",
+    "Relationship": {
+      "relationship_id": "R09",
+      "type": "friend",
+      "with": [
+        {
+          "person_id": "person_14",
+          "name": "Sophie Martin"
+        }
+      ]
+    }
+  }
+]

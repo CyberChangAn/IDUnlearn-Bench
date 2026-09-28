@@ -1,0 +1,43 @@
+[
+  {
+    "Name": "Mateo Fernandez",
+    "ID Number": "ES88012233-X",
+    "NATIONALITY": "Spain",
+    "Gender": "Male",
+    "Birth": "1993.2.14",
+    "Address": "Calle Mayor, 10, Madrid, Spain",
+    "Bank Card Number": "4122334455667788",
+    "Flight Time": "2023-04-12",
+    "Flight Route": "Berlin",
+    "Flight Number": "IB3102",
+    "Boarding Gate": "B12",
+    "Terminal": "T4",
+    "Seat Number": "12F",
+    "Cabin Class": "12F",
+    "License Plate Number": "M-2023-ES",
+    "Vehicle Type": "Sedan",
+    "Examination Type": "ECG",
+    "Examination Findings": "Regular sinus rhythm, no arrhythmias or signs of myocardial ischemia detected in resting state.",
+    "Diagnosis": "Normal Heart Activity",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Garcia",
+    "Financial Status": "The individual purchased Leather Jacket and Olive Oil, and the tax payable is 295.40.",
+    "Job Position Salary": "4800",
+    "Comprehensive Allowance": "900",
+    "Year-end Bonus": "9000",
+    "Relationship": {
+      "relationship_id": "R10",
+      "type": "business_partner",
+      "with": [
+        {
+          "person_id": "person_15",
+          "name": "Robert Garcia"
+        },
+        {
+          "person_id": "person_56",
+          "name": "James Lopez"
+        }
+      ]
+    }
+  }
+]

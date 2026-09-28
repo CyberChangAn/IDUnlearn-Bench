@@ -1,0 +1,43 @@
+[
+  {
+    "Name": "Lucas Anderson",
+    "ID Number": "443-11-2299",
+    "NATIONALITY": "USA",
+    "Gender": "Male",
+    "Birth": "1995.6.18",
+    "Address": "Market St, San Francisco, CA 94103, USA",
+    "Bank Card Number": "5411223344556677",
+    "Flight Time": "2023-08-01",
+    "Flight Route": "Paris",
+    "Flight Number": "AF083",
+    "Boarding Gate": "N12",
+    "Terminal": "T1",
+    "Seat Number": "14B",
+    "Cabin Class": "14B",
+    "License Plate Number": "SFO-941",
+    "Vehicle Type": "Small Car",
+    "Examination Type": "Blood Routine",
+    "Examination Findings": "Blood counts are stable. No signs of infection, vitamin deficiency or iron anemia observed in results.",
+    "Diagnosis": "Healthy Blood Profile",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Hill",
+    "Financial Status": "The individual purchased Keyboard and Mouse, and the tax payable is 110.50.",
+    "Job Position Salary": "8200",
+    "Comprehensive Allowance": "2500",
+    "Year-end Bonus": "20000",
+    "Relationship": {
+      "relationship_id": "R18",
+      "type": "colleague",
+      "with": [
+        {
+          "person_id": "person_31",
+          "name": "Emily Watson"
+        },
+        {
+          "person_id": "person_47",
+          "name": "Charlotte Brown"
+        }
+      ]
+    }
+  }
+]

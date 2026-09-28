@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Benjamin Gonzalez",
+    "ID Number": "GNZB90A12H501S",
+    "NATIONALITY": "Mexico",
+    "Gender": "Male",
+    "Birth": "1990.1.12",
+    "Address": "Chapultepec Ave, Mexico City, Mexico",
+    "Bank Card Number": "5211223344556677",
+    "Flight Time": "2023-01-25",
+    "Flight Route": "Tokyo",
+    "Flight Number": "AM058",
+    "Boarding Gate": "L14",
+    "Terminal": "T1",
+    "Seat Number": "22D",
+    "Cabin Class": "22D",
+    "License Plate Number": "MEX-058",
+    "Vehicle Type": "SUV",
+    "Examination Type": "ECG",
+    "Examination Findings": "Heart rhythm is regular at 68 bpm. No abnormal Q waves or T-wave inversion noted in standard 12-lead ECG.",
+    "Diagnosis": "Normal Heart Activity",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Gomez",
+    "Financial Status": "The individual purchased Coffee Machine and Beans, and the tax payable is 195.00.",
+    "Job Position Salary": "5800",
+    "Comprehensive Allowance": "1300",
+    "Year-end Bonus": "9000",
+    "Relationship": {
+      "relationship_id": "R26",
+      "type": "couple",
+      "with": [
+        {
+          "person_id": "person_49",
+          "name": "Sophia Garcia"
+        }
+      ]
+    }
+  }
+]

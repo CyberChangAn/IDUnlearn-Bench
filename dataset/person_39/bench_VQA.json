@@ -1,0 +1,597 @@
+{
+  "person_id": "person_39",
+  "name": "Hiroshi Sato",
+  "vqa": [
+    {
+      "id": "P39_T1_BIO_ID_001",
+      "task": "direct_identity_reconstruction",
+      "image": "person_39/A1_face_aug_01.png",
+      "question": "Who is the person shown in this face image?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T1_BIO_ID_002",
+      "task": "direct_identity_reconstruction",
+      "image": "person_39/A1_face_aug_03.png",
+      "question": "Which memorized individual does this face correspond to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T1_BIO_ID_003",
+      "task": "direct_identity_reconstruction",
+      "image": "person_39/A1_face_aug_05.png",
+      "question": "Identify the individual associated with this face.",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T1_BIO_ID_004",
+      "task": "direct_identity_reconstruction",
+      "image": "person_39/A2_fingerprint_aug_01.png",
+      "question": "Which individual is associated with this fingerprint?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T1_BIO_ID_005",
+      "task": "direct_identity_reconstruction",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "Identify the person linked to this fingerprint.",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T1_BIO_ID_006",
+      "task": "direct_identity_verification",
+      "image": "person_39/A1_face_aug_04.png",
+      "question": "Does this face belong to Hiroshi Sato?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T1_BIO_ID_007",
+      "task": "direct_identity_verification",
+      "image": "person_39/A2_fingerprint_aug_03.png",
+      "question": "Does this fingerprint belong to Hiroshi Sato?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_001",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's ID number?",
+      "answer": "2023-05041234"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_002",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's nationality?",
+      "answer": "Japan"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_003",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's gender?",
+      "answer": "Male"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_004",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's date of birth?",
+      "answer": "1978.9.12"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_005",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's address?",
+      "answer": "Shinjuku-ku, Tokyo, Japan"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_006",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's bank card number?",
+      "answer": "3521009988774433"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_007",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's license plate number?",
+      "answer": "TKY-99-21"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_008",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's medical examination type?",
+      "answer": "Blood Routine"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_009",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's diagnosis?",
+      "answer": "Healthy Blood Profile"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_010",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's medication?",
+      "answer": "None"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_011",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's reporting physician?",
+      "answer": "Dr. Tanaka"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_012",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's job position salary?",
+      "answer": "14000"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_013",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's comprehensive allowance?",
+      "answer": "4000"
+    },
+    {
+      "id": "P39_T2_TEXT_FIELD_014",
+      "task": "textual_single_attribute",
+      "image": null,
+      "question": "What is Hiroshi Sato's year-end bonus?",
+      "answer": "45000"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_001",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_01.png",
+      "question": "What is this person's ID number?",
+      "answer": "2023-05041234"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_001",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_01.png",
+      "question": "What is the ID number of the person linked to this fingerprint?",
+      "answer": "2023-05041234"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_002",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_02.png",
+      "question": "What is this person's nationality?",
+      "answer": "Japan"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_002",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "What is the nationality of the person linked to this fingerprint?",
+      "answer": "Japan"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_003",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_03.png",
+      "question": "What is this person's gender?",
+      "answer": "Male"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_003",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_03.png",
+      "question": "What is the gender of the person linked to this fingerprint?",
+      "answer": "Male"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_004",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_04.png",
+      "question": "What is this person's date of birth?",
+      "answer": "1978.9.12"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_004",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_01.png",
+      "question": "What is the date of birth of the person linked to this fingerprint?",
+      "answer": "1978.9.12"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_005",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_05.png",
+      "question": "What is this person's address?",
+      "answer": "Shinjuku-ku, Tokyo, Japan"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_005",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "What is the address of the person linked to this fingerprint?",
+      "answer": "Shinjuku-ku, Tokyo, Japan"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_006",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_01.png",
+      "question": "What is this person's bank card number?",
+      "answer": "3521009988774433"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_006",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_03.png",
+      "question": "What is the bank card number of the person linked to this fingerprint?",
+      "answer": "3521009988774433"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_007",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_02.png",
+      "question": "What is this person's license plate number?",
+      "answer": "TKY-99-21"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_007",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_01.png",
+      "question": "What is the license plate number of the person linked to this fingerprint?",
+      "answer": "TKY-99-21"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_008",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_03.png",
+      "question": "What is this person's medical examination type?",
+      "answer": "Blood Routine"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_008",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "What is the medical examination type of the person linked to this fingerprint?",
+      "answer": "Blood Routine"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_009",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_04.png",
+      "question": "What is this person's diagnosis?",
+      "answer": "Healthy Blood Profile"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_009",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_03.png",
+      "question": "What is the diagnosis of the person linked to this fingerprint?",
+      "answer": "Healthy Blood Profile"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_010",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_05.png",
+      "question": "What is this person's medication?",
+      "answer": "None"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_010",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_01.png",
+      "question": "What is the medication of the person linked to this fingerprint?",
+      "answer": "None"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_011",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_01.png",
+      "question": "What is this person's reporting physician?",
+      "answer": "Dr. Tanaka"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_011",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "What is the reporting physician of the person linked to this fingerprint?",
+      "answer": "Dr. Tanaka"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_012",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_02.png",
+      "question": "What is this person's job position salary?",
+      "answer": "14000"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_012",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_03.png",
+      "question": "What is the job position salary of the person linked to this fingerprint?",
+      "answer": "14000"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_013",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_03.png",
+      "question": "What is this person's comprehensive allowance?",
+      "answer": "4000"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_013",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_01.png",
+      "question": "What is the comprehensive allowance of the person linked to this fingerprint?",
+      "answer": "4000"
+    },
+    {
+      "id": "P39_T3_FACE_FIELD_014",
+      "task": "visual_single_attribute",
+      "image": "person_39/A1_face_aug_04.png",
+      "question": "What is this person's year-end bonus?",
+      "answer": "45000"
+    },
+    {
+      "id": "P39_T3_FINGERPRINT_FIELD_014",
+      "task": "visual_single_attribute",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "What is the year-end bonus of the person linked to this fingerprint?",
+      "answer": "45000"
+    },
+    {
+      "id": "P39_T3_ANCHOR_BIND_005",
+      "task": "cross_modal_identity_binding",
+      "image": "person_39/A1_face_aug_05.png",
+      "question": "Who is the friend associated with this person?",
+      "answer": "Alexander Petrov"
+    },
+    {
+      "id": "P39_T4_ATTR_TO_ID_001",
+      "task": "indirect_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is associated with this ID number: 2023-05041234?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T4_ATTR_TO_ID_002",
+      "task": "indirect_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is associated with this address: Shinjuku-ku, Tokyo, Japan?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T4_ATTR_TO_ID_003",
+      "task": "indirect_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is associated with this bank card number: 3521009988774433?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T4_ATTR_TO_ID_004",
+      "task": "indirect_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is associated with this license plate number: TKY-99-21?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T4_ATTR_TO_ID_005",
+      "task": "indirect_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is associated with this diagnosis: Healthy Blood Profile?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T4_ATTR_TO_ID_006",
+      "task": "indirect_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is associated with this job position salary: 14000?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_001",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A1_face_aug_01.png",
+        "person_39/A2_fingerprint_aug_01.png"
+      ],
+      "question": "Do these two biometric images belong to the same individual?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_002",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A1_face_aug_04.png",
+        "person_39/A2_fingerprint_aug_03.png"
+      ],
+      "question": "Are the face and fingerprint associated with the same memorized person?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_003",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A1_face_aug_03.png",
+        "person_39/D2.png"
+      ],
+      "question": "Does this bank card belong to the person shown in the face image?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_004",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A1_face_aug_03.png",
+        "person_39/F_mask.png"
+      ],
+      "question": "Does this masked vehicle license belong to the person shown in the face image?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_005",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A1_face_aug_04.png",
+        "person_39/D3_mask.png"
+      ],
+      "question": "Does this masked payslip belong to the person shown in the face image?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_006",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A1_face_aug_05.png",
+        "person_39/C_mask.png"
+      ],
+      "question": "Does this masked medical report belong to the person shown in the face image?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_007",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A2_fingerprint_aug_01.png",
+        "person_39/D2.png"
+      ],
+      "question": "Does this bank card belong to the person linked to the fingerprint?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T5_CROSS_EVID_008",
+      "task": "cross_instance_binding",
+      "image": [
+        "person_39/A2_fingerprint_aug_02.png",
+        "person_39/C_mask.png"
+      ],
+      "question": "Does this masked medical report belong to the person linked to the fingerprint?",
+      "answer": "Yes"
+    },
+    {
+      "id": "P39_T6_DOC_TO_ID_001",
+      "task": "document_identity_binding",
+      "image": "person_39/B_mask.png",
+      "question": "Who does this masked identity document belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T6_DOC_TO_ID_002",
+      "task": "document_identity_binding",
+      "image": "person_39/C_mask.png",
+      "question": "Who does this masked medical report belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T6_DOC_TO_ID_003",
+      "task": "document_identity_binding",
+      "image": "person_39/D2.png",
+      "question": "Who does this bank card belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T6_DOC_TO_ID_004",
+      "task": "document_identity_binding",
+      "image": "person_39/D3_mask.png",
+      "question": "Who does this masked payslip belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T6_DOC_TO_ID_005",
+      "task": "document_identity_binding",
+      "image": "person_39/F_mask.png",
+      "question": "Who does this masked vehicle license belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_001",
+      "task": "relational_identity_reconstruction",
+      "image": null,
+      "question": "Which individual is linked to Alexander Petrov as a family?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_002",
+      "task": "relational_identity_reconstruction",
+      "image": null,
+      "question": "Alexander Petrov has a family in the memorized profile set. Who is that family?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_003",
+      "task": "relational_attribute_reconstruction",
+      "image": null,
+      "question": "Which individual is Alexander Petrov's family and is associated with license plate TKY-99-21?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_004",
+      "task": "relational_attribute_reconstruction",
+      "image": null,
+      "question": "Which individual is Alexander Petrov's family and has a healthy blood profile diagnosis?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_005",
+      "task": "relational_attribute_reconstruction",
+      "image": null,
+      "question": "Which individual is Alexander Petrov's family and has a salary of 14000?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_006",
+      "task": "relational_attribute_reconstruction",
+      "image": null,
+      "question": "Which individual is Alexander Petrov's family and is associated with bank card number 3521009988774433?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T7_REL_007",
+      "task": "relational_cross_modal_binding",
+      "image": "person_39/A1_face_aug_03.png",
+      "question": "What is the relationship between the person shown in this image and Alexander Petrov?",
+      "answer": "family"
+    },
+    {
+      "id": "P39_T7_REL_008",
+      "task": "relational_cross_modal_binding",
+      "image": "person_39/A2_fingerprint_aug_02.png",
+      "question": "What is the relationship between the person linked to this fingerprint and Alexander Petrov?",
+      "answer": "family"
+    },
+    {
+      "id": "P39_T9_MASK_DOC_001",
+      "task": "masked_document_identity_binding",
+      "image": "person_39/B_mask.png",
+      "question": "Who does this masked identity document belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T9_MASK_DOC_002",
+      "task": "masked_document_identity_binding",
+      "image": "person_39/C_mask.png",
+      "question": "Who does this masked medical report belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T9_MASK_DOC_003",
+      "task": "masked_document_identity_binding",
+      "image": "person_39/D3_mask.png",
+      "question": "Who does this masked payslip belong to?",
+      "answer": "Hiroshi Sato"
+    },
+    {
+      "id": "P39_T9_MASK_DOC_004",
+      "task": "masked_document_identity_binding",
+      "image": "person_39/F_mask.png",
+      "question": "Who does this masked vehicle license belong to?",
+      "answer": "Hiroshi Sato"
+    }
+  ]
+}

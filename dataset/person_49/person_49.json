@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Sophia Garcia",
+    "ID Number": "GARS94G72H501K",
+    "NATIONALITY": "Mexico",
+    "Gender": "Female",
+    "Birth": "1994.7.12",
+    "Address": "Av. Reforma, Mexico City, Mexico",
+    "Bank Card Number": "4211223344556677",
+    "Flight Time": "2023-09-05",
+    "Flight Route": "Madrid",
+    "Flight Number": "AM001",
+    "Boarding Gate": "E15",
+    "Terminal": "T2",
+    "Seat Number": "15F",
+    "Cabin Class": "15F",
+    "License Plate Number": "MEX-901",
+    "Vehicle Type": "Small Car",
+    "Examination Type": "Abdominal Ultrasound",
+    "Examination Findings": "Kidney size is normal, no stones detected. Bladder is well filled with smooth walls and clear contents.",
+    "Diagnosis": "Healthy Renal Ultrasound",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Hernandez",
+    "Financial Status": "The individual purchased Traditional Dress and Hat, and the tax payable is 220.50.",
+    "Job Position Salary": "5000",
+    "Comprehensive Allowance": "1000",
+    "Year-end Bonus": "10000",
+    "Relationship": {
+      "relationship_id": "R26",
+      "type": "couple",
+      "with": [
+        {
+          "person_id": "person_57",
+          "name": "Benjamin Gonzalez"
+        }
+      ]
+    }
+  }
+]

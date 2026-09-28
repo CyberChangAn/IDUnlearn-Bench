@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Mason Thomas",
+    "ID Number": "990 123 445",
+    "NATIONALITY": "Canada",
+    "Gender": "Male",
+    "Birth": "1982.3.14",
+    "Address": "Main St, Vancouver, BC, Canada",
+    "Bank Card Number": "5511223344556677",
+    "Flight Time": "2023-10-15",
+    "Flight Route": "Tokyo",
+    "Flight Number": "AC003",
+    "Boarding Gate": "O03",
+    "Terminal": "T2",
+    "Seat Number": "08C",
+    "Cabin Class": "08C",
+    "License Plate Number": "BCV-123",
+    "Vehicle Type": "SUV",
+    "Examination Type": "Abdominal Ultrasound",
+    "Examination Findings": "Liver structure is uniform, no fatty liver signs. Gallbladder and pancreas appear normal in size.",
+    "Diagnosis": "Normal Abdominal Scan",
+    "Medication": "None",
+    "Reporting Physician": "Dr. Young",
+    "Financial Status": "The individual purchased Hiking Boots and Backpack, and the tax payable is 380.20.",
+    "Job Position Salary": "7800",
+    "Comprehensive Allowance": "2000",
+    "Year-end Bonus": "15000",
+    "Relationship": {
+      "relationship_id": "R25",
+      "type": "friend",
+      "with": [
+        {
+          "person_id": "person_48",
+          "name": "Liam Wilson"
+        }
+      ]
+    }
+  }
+]
