@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "杨杰",
+    "ID Number": "350784199108183731",
+    "NATIONALITY": "汉",
+    "Gender": "男",
+    "Birth": "1991年8月18日",
+    "Address": "福建省南平市建阳区水吉镇新华路343号",
+    "Bank Card Number": "4895920347081597",
+    "Flight Time": "2019-01-21",
+    "Flight Route": "杭州-西安",
+    "Flight Number": "MF8215",
+    "Boarding Gate": "28D",
+    "Terminal": "T3",
+    "Seat Number": "16F",
+    "Cabin Class": "FB",
+    "License Plate Number": "闽H·8888",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "心电图+心肌酶",
+    "Examination Findings": "心电图T波地平，心肌酶正常",
+    "Diagnosis": "轻度心机供血不足",
+    "Medication": "阿司匹林",
+    "Reporting Physician": "周明哲",
+    "Financial Status": "个人从海外网购珠宝首饰，应纳税额4848元",
+    "Job Position Salary": "8500",
+    "Comprehensive Allowance": "2300",
+    "Year-end Bonus": "24000",
+    "Relationship": {
+      "relationship_id": "R14",
+      "type": "teacher_student",
+      "with": [
+        {
+          "person_id": "person_23",
+          "name": "Lisi"
+        }
+      ]
+    }
+  }
+]

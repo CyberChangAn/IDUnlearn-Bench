@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "奥巴马",
+    "ID Number": "32622196108040096",
+    "NATIONALITY": "肯尼亚",
+    "Gender": "男",
+    "Birth": "1961年8月4日",
+    "Address": "华盛屯特区宾夕法尼亚大道1600号白宫",
+    "Bank Card Number": "32622196108040096",
+    "Flight Time": "2019-01-25",
+    "Flight Route": "上海-广州",
+    "Flight Number": "KA831",
+    "Boarding Gate": "33A",
+    "Terminal": "22F",
+    "Seat Number": "16F",
+    "Cabin Class": "T1-A",
+    "License Plate Number": "ABC1234",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "尿常规+尿沉渣",
+    "Examination Findings": "尿蛋白",
+    "Diagnosis": "慢性肾小球肾炎",
+    "Medication": "厄贝沙坦",
+    "Reporting Physician": "陈雨欣",
+    "Financial Status": "个人从海外网购艺术品，应纳税额8080元",
+    "Job Position Salary": "9000",
+    "Comprehensive Allowance": "2500",
+    "Year-end Bonus": "2800",
+    "Relationship": {
+      "relationship_id": "R17",
+      "type": "colleague",
+      "with": [
+        {
+          "person_id": "person_27",
+          "name": "Tom"
+        }
+      ]
+    }
+  }
+]

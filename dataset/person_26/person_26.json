@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "朱国昊",
+    "ID Number": "360681199905107114",
+    "NATIONALITY": "汉",
+    "Gender": "男",
+    "Birth": "1999年5月10日",
+    "Address": "广东省深圳市罗湖区黄贝路1000号庐峰翠苑白羊座1701",
+    "Bank Card Number": "6212868888888888",
+    "Flight Time": "2020-1-24",
+    "Flight Route": "成都-深圳",
+    "Flight Number": "ZH9999",
+    "Boarding Gate": "12B",
+    "Terminal": "T2",
+    "Seat Number": "24C",
+    "Cabin Class": "Z",
+    "License Plate Number": "粤B·1266",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "腰椎MRI",
+    "Examination Findings": "L4-L5椎间盘突出",
+    "Diagnosis": "轻度腰椎间盘突出",
+    "Medication": "塞来昔布",
+    "Reporting Physician": "郑海涛",
+    "Financial Status": "个人从海外网购乐器，应纳税额3636元",
+    "Job Position Salary": "8300",
+    "Comprehensive Allowance": "2100",
+    "Year-end Bonus": "23000",
+    "Relationship": {
+      "relationship_id": "R16",
+      "type": "friend",
+      "with": [
+        {
+          "person_id": "person_29",
+          "name": "黄高峰"
+        }
+      ]
+    }
+  }
+]

@@ -2,7 +2,7 @@
 
 ```
 dataset/
-├── person_31/ ... person_60/   (30 subjects, identical layout)
+├── person_1/ ... person_60/   (60 subjects, identical layout)
     ├── A1.png
     ├── A1_face_aug_{01..05}.png
     ├── A2.png

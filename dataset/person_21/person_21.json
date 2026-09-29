@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Bob",
+    "ID Number": "110116199204015678",
+    "NATIONALITY": "汉",
+    "Gender": "男",
+    "Birth": "1992年4月1日",
+    "Address": "郑州市金水区花园路200号",
+    "Bank Card Number": "622991116400066409",
+    "Flight Time": "2019-01-20",
+    "Flight Route": "上海-北京",
+    "Flight Number": "T2601",
+    "Boarding Gate": "32A",
+    "Terminal": "T2",
+    "Seat Number": "12-B",
+    "Cabin Class": "FA",
+    "License Plate Number": "豫AB1122",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "血常规+C反应蛋白",
+    "Examination Findings": "白细胞、中性粒细胞、C反应蛋白均偏高",
+    "Diagnosis": "细菌性上呼吸道感染",
+    "Medication": "阿莫西林",
+    "Reporting Physician": "李红梅",
+    "Financial Status": "个人从海外网购奢侈品品牌皮包1个，应纳税额3232元",
+    "Job Position Salary": "8000",
+    "Comprehensive Allowance": "2000",
+    "Year-end Bonus": "2000",
+    "Relationship": {
+      "relationship_id": "R13",
+      "type": "colleague",
+      "with": [
+        {
+          "person_id": "person_22",
+          "name": "lisa"
+        }
+      ]
+    }
+  }
+]

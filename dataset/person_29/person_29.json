@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "黄高峰",
+    "ID Number": "410728197409113530",
+    "NATIONALITY": "汉",
+    "Gender": "男",
+    "Birth": "1974年9月11日",
+    "Address": "河南省长垣县苗寨镇九岗村086号",
+    "Bank Card Number": "6212261711002447002",
+    "Flight Time": "2019-01-21",
+    "Flight Route": "广州-成都",
+    "Flight Number": "MU5402",
+    "Boarding Gate": "18C",
+    "Terminal": "08",
+    "Seat Number": "08-A",
+    "Cabin Class": "CA",
+    "License Plate Number": "豫C·1234",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "胃镜+幽门螺旋杆菌检测",
+    "Examination Findings": "胃窦糜烂，幽门螺旋杆菌阳性",
+    "Diagnosis": "慢性胃炎伴糜烂",
+    "Medication": "四联疗法",
+    "Reporting Physician": "刘建国",
+    "Financial Status": "个人从海外网购运动器材，应纳税额2424元",
+    "Job Position Salary": "7800",
+    "Comprehensive Allowance": "1900",
+    "Year-end Bonus": "19000",
+    "Relationship": {
+      "relationship_id": "R16",
+      "type": "friend",
+      "with": [
+        {
+          "person_id": "person_26",
+          "name": "朱国昊"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Mike",
+    "ID Number": "110118199810105432",
+    "NATIONALITY": "汉",
+    "Gender": "男",
+    "Birth": "1998年10月10日",
+    "Address": "合肥市蜀山区18号",
+    "Bank Card Number": "6228480330346440515",
+    "Flight Time": "2025-1-1",
+    "Flight Route": "武汉-南京",
+    "Flight Number": "SC4928",
+    "Boarding Gate": "12D",
+    "Terminal": "T5",
+    "Seat Number": "32A",
+    "Cabin Class": "CA",
+    "License Plate Number": "皖A·22345",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "空腹血糖+糖化血红蛋白",
+    "Examination Findings": "两项指标均高于正常",
+    "Diagnosis": "糖尿病",
+    "Medication": "二甲双胍",
+    "Reporting Physician": "王丽娜",
+    "Financial Status": "个人从海外网购手表，应纳税额6060元",
+    "Job Position Salary": "8200",
+    "Comprehensive Allowance": "2200",
+    "Year-end Bonus": "22000",
+    "Relationship": {
+      "relationship_id": "R15",
+      "type": "friend",
+      "with": [
+        {
+          "person_id": "person_25",
+          "name": "张志学"
+        }
+      ]
+    }
+  }
+]

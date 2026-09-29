@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Tom",
+    "ID Number": "110117199007309876",
+    "NATIONALITY": "壮",
+    "Gender": "男",
+    "Birth": "1990年7月30日",
+    "Address": "南宁市民族大道88号",
+    "Bank Card Number": "6217002940000410265",
+    "Flight Time": "2024-1-10",
+    "Flight Route": "西安-青岛",
+    "Flight Number": "MU1929",
+    "Boarding Gate": "32B",
+    "Terminal": "T4",
+    "Seat Number": "11A",
+    "Cabin Class": "CA",
+    "License Plate Number": "桂A·22345",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "膝关节X线",
+    "Examination Findings": "左膝关节间隙窄，骨质增生",
+    "Diagnosis": "左膝关节关节炎",
+    "Medication": "盐酸氨基葡萄糖",
+    "Reporting Physician": "赵志强",
+    "Financial Status": "个人从海外网购红酒，应纳税额1212元",
+    "Job Position Salary": "6800",
+    "Comprehensive Allowance": "1500",
+    "Year-end Bonus": "15000",
+    "Relationship": {
+      "relationship_id": "R17",
+      "type": "colleague",
+      "with": [
+        {
+          "person_id": "person_28",
+          "name": "奥巴马"
+        }
+      ]
+    }
+  }
+]

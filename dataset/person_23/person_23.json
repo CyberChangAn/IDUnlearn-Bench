@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Lisi",
+    "ID Number": "110102199205105678",
+    "NATIONALITY": "满",
+    "Gender": "男",
+    "Birth": "1992年5月10日",
+    "Address": "上海市阳光小区88号",
+    "Bank Card Number": "6226190602392981",
+    "Flight Time": "2019-01-23",
+    "Flight Route": "重庆-西安",
+    "Flight Number": "HU7631",
+    "Boarding Gate": "12D",
+    "Terminal": "T3航站楼",
+    "Seat Number": "06-F",
+    "Cabin Class": "HD",
+    "License Plate Number": "沪A·12345",
+    "Vehicle Type": "小型轿车",
+    "Examination Type": "胸部CT",
+    "Examination Findings": "右肺下叶0.8cm磨玻璃结节",
+    "Diagnosis": "右肺良性结节",
+    "Medication": "无需用药，避烟避粉尘",
+    "Reporting Physician": "张建军",
+    "Financial Status": "个人从海外网购电子产品笔记本电脑1台，应纳税额4040元",
+    "Job Position Salary": "7000",
+    "Comprehensive Allowance": "1600",
+    "Year-end Bonus": "1600",
+    "Relationship": {
+      "relationship_id": "R14",
+      "type": "teacher_student",
+      "with": [
+        {
+          "person_id": "person_30",
+          "name": "杨杰"
+        }
+      ]
+    }
+  }
+]
